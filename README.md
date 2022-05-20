@@ -1,6 +1,5 @@
 ## Hola! 👋
-Mi nombre es Juan Sebastian Bustos Marroquin originario de Bogota - Colombia, me encanta todo el mundo de la programacion de software, especializado en areas como:
-Back-end, Front-end y databases, proyectandome a largo plazo como un Architect of solutions 😄.
+Mi nombre es Juan Sebastian Bustos Marroquin originario de Bogota - Colombia, me encanta el Desarrollo de software 😄.
 
 ### Titulos ⚡
 Tecnico en Programacion de Software
