@@ -9,10 +9,10 @@ Diplomado en Desarrollo de Software
 
 ### Insignias ✨
 <p >
-  <img height="120" src="/img/CybersecurityAndOracleCloud.png" alt="My cool Badge"/>
-  <img height="120" src="/img/OracleCloudDevOps.png" alt="My cool Badge"/>
-  <img height="120" src="/img/OracleMySQL.png" alt="My cool Badge"/>
-  <img height="120" src="/img/Oracle_APEX.png" alt="My cool Badge"/>
+  <img height="180" src="/img/CybersecurityAndOracleCloud.png" alt="My cool Badge"/>
+  <img height="180" src="/img/OracleCloudDevOps.png" alt="My cool Badge"/>
+  <img height="180" src="/img/OracleMySQL.png" alt="My cool Badge"/>
+  <img height="180" src="/img/Oracle_APEX.png" alt="My cool Badge"/>
 </p>
 <!--
 **JSBM4573R/JSBM4573R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
