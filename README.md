@@ -10,9 +10,10 @@ Diplomado en Desarrollo de Software
 
 ### Insignias ✨
 <p align="center">
-  <img height="100" src="/img/CybersecurityAndOracleCloud.png" alt="My cool Badge"/>
-  <img height="100" src="/img/OracleCloudDevOps.png" alt="My cool Badge"/>
-  <img height="100" src="/img/OracleMySQL.png" alt="My cool Badge"/>
+  <img height="90" src="/img/CybersecurityAndOracleCloud.png" alt="My cool Badge"/>
+  <img height="90" src="/img/OracleCloudDevOps.png" alt="My cool Badge"/>
+  <img height="90" src="/img/OracleMySQL.png" alt="My cool Badge"/>
+  <img height="90" src="/img/Oracle_APEX.png" alt="My cool Badge"/>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
