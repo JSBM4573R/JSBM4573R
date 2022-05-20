@@ -1,5 +1,5 @@
 ## Hola! 👋
-Mi nombre es Juan Sebastian Bustos Marroquin originario de Bogota - Colombia, me encanta el Desarrollo de software 😄.
+Mi nombre es Juan Sebastian Bustos Marroquin originario de Bogota - Colombia y me encanta el Desarrollo de software 😄.
 
 ### Titulos ⚡
 Tecnico en Programacion de Software
@@ -8,10 +8,10 @@ Diplomado en Desarrollo de Software
 
 ### Insignias ✨
 <p >
-  <img height="180" src="/img/CybersecurityAndOracleCloud.png" alt="My cool Badge"/>
-  <img height="180" src="/img/OracleCloudDevOps.png" alt="My cool Badge"/>
-  <img height="180" src="/img/OracleMySQL.png" alt="My cool Badge"/>
-  <img height="180" src="/img/Oracle_APEX.png" alt="My cool Badge"/>
+  <img height="100" src="/img/CybersecurityAndOracleCloud.png" alt="My cool Badge"/>
+  <img height="100" src="/img/OracleCloudDevOps.png" alt="My cool Badge"/>
+  <img height="100" src="/img/OracleMySQL.png" alt="My cool Badge"/>
+  <img height="100" src="/img/Oracle_APEX.png" alt="My cool Badge"/>
 </p>
 <!--
 **JSBM4573R/JSBM4573R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
