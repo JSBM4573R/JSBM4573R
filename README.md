@@ -1,4 +1,4 @@
-![MasterHead](https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/06/2-46.gif)
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/223e6792880429.5e569ff84ebef.gif)
 
 <h1 align="center">Hola 👋, Soy Juan Sebastian Bustos Marroquin</h1>
 <h3 align="center">Un apasionado por el desarrollo de software de origen Colombiano</h3>
