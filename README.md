@@ -26,9 +26,9 @@
 
 <!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jsbm4573r&show_icons=true&locale=en&layout=compact" alt="jsbm4573r" /></p> -->
 
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=jsbm4573r&show_icons=true&locale=en&theme=radical" alt="jsbm4573r" /></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=jsbm4573r&show_icons=true&locale=en&theme=tokyonight" alt="jsbm4573r" /></p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=jsbm4573r&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="jsbm4573r" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=jsbm4573r&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="jsbm4573r" /></p>
 <!--
 **JSBM4573R/JSBM4573R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
